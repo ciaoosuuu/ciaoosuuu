@@ -1,9 +1,7 @@
 
 ## Team name: Chatee
 
-Developers : Chen Shun
-
-             Law Sean Meng
+Developers : Chen Shun & Law Sean Meng
 
 Orbital level of achievement: Apollo
 
@@ -40,6 +38,8 @@ Frontend User Interface (Client side):
  - React Native
 
 Backend (Server side)
+ - Sendbird
+ - Firebase
 
 ## System Design diagrams showing how all the different components of your software work together
 
